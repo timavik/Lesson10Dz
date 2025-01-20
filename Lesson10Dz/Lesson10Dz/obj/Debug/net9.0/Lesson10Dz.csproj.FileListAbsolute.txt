@@ -1,0 +1,14 @@
+D:\csharp\Lesson10Dz\Lesson10Dz\bin\Debug\net9.0\Lesson10Dz.exe
+D:\csharp\Lesson10Dz\Lesson10Dz\bin\Debug\net9.0\Lesson10Dz.deps.json
+D:\csharp\Lesson10Dz\Lesson10Dz\bin\Debug\net9.0\Lesson10Dz.runtimeconfig.json
+D:\csharp\Lesson10Dz\Lesson10Dz\bin\Debug\net9.0\Lesson10Dz.dll
+D:\csharp\Lesson10Dz\Lesson10Dz\bin\Debug\net9.0\Lesson10Dz.pdb
+D:\csharp\Lesson10Dz\Lesson10Dz\obj\Debug\net9.0\Lesson10Dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Lesson10Dz\Lesson10Dz\obj\Debug\net9.0\Lesson10Dz.AssemblyInfoInputs.cache
+D:\csharp\Lesson10Dz\Lesson10Dz\obj\Debug\net9.0\Lesson10Dz.AssemblyInfo.cs
+D:\csharp\Lesson10Dz\Lesson10Dz\obj\Debug\net9.0\Lesson10Dz.csproj.CoreCompileInputs.cache
+D:\csharp\Lesson10Dz\Lesson10Dz\obj\Debug\net9.0\Lesson10Dz.dll
+D:\csharp\Lesson10Dz\Lesson10Dz\obj\Debug\net9.0\refint\Lesson10Dz.dll
+D:\csharp\Lesson10Dz\Lesson10Dz\obj\Debug\net9.0\Lesson10Dz.pdb
+D:\csharp\Lesson10Dz\Lesson10Dz\obj\Debug\net9.0\Lesson10Dz.genruntimeconfig.cache
+D:\csharp\Lesson10Dz\Lesson10Dz\obj\Debug\net9.0\ref\Lesson10Dz.dll
