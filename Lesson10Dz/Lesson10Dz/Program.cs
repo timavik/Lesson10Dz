@@ -7,7 +7,7 @@
             var inputUsers = Console.ReadLine();
             try
             {
-                if (inputUsers.Contains('!') || inputUsers.Contains('?') || inputUsers.Contains(':'))
+                if (inputUsers.Contains('ё') || inputUsers.Contains('@') || inputUsers.Contains('*'))
                 {
                     throw new ArgumentException("Недопустимый символ");
                 }
